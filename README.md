@@ -2,6 +2,7 @@
 Declare: These two projects are teamworks and I do it with [Eunchong Kim](https://github.com/EunchongKim).
 
 [PeliBook](#introduction-of-pelibook)
+[FitnessSite](#introduction-of-fitnesssite)
 
 ## Introduction of PeliBook
 
