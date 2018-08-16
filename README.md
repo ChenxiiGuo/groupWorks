@@ -30,7 +30,7 @@ This project is to develop a website and in this website, you can choose your fa
 
 ### How to use it
 
-You can choose to run the server on your own and visit https://localhost:8080/. Also, you can try to visit http://159.65.28.157:8090. Please notice that this website will be frequently updated and there will be some maintenance(both by Eunchong Kim).
+You can choose to run the server on your own and visit https://localhost:8080/. Also, you can try to visit http://178.128.46.66:8000. Please notice that this website will be frequently updated and there will be some maintenance(both by Eunchong Kim).
 
 ### Features of this project
 
